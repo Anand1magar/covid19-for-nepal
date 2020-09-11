@@ -1,0 +1,4 @@
+#Thu Sep 10 21:44:29 NPT 2020
+base.0=C\:\\Users\\DELL\\Downloads\\flutter_covid_dashboard_ui-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
